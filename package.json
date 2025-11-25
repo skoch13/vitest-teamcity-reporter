@@ -1,5 +1,5 @@
 {
-  "name": "vitest-teamcity-reporter",
+  "name": "@skoch13/vitest-teamcity-reporter",
   "version": "0.4.0",
   "description": "A TeamCity reporter for vitest.",
   "repository": {

@@ -1,5 +1,8 @@
 # 📝 vitest-teamcity-reporter
 
+:> [!WARNING]
+> Temporary fork while the upstream is not fixed
+
 ## 💿 Installation
 
 ```bash
