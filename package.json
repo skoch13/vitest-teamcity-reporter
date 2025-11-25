@@ -20,6 +20,7 @@
     "clean": "rimraf lib",
     "test": "vitest --run src/test/index.spec.ts",
     "build": "pnpm clean && tsc -p tsconfig.lib.json",
+    "prepare": "pnpm build",
     "lint": "eslint ./src/**/*.ts --fix"
   },
   "devDependencies": {
