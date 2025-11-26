@@ -1,10 +1,10 @@
 {
   "name": "@skoch13/vitest-teamcity-reporter",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A TeamCity reporter for vitest.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eratio08/vitest-teamcity-reporter"
+    "url": "https://github.com/skoch13/vitest-teamcity-reporter"
   },
   "keywords": [
     "vitest",
